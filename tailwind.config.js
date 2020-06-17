@@ -10,17 +10,19 @@ module.exports = {
 
       // Green variations
       'primary-lightest': '#D5FFF4',
-      'primary-lighter': '#E6F5F0',
-      'primary-light': '#69D5B1',
-      'primary-dark': '#126D4F',
-      'primary': '#00bc89',
+      'primary-lighter': '#F6C324',
+      'primary-light': '#F6C324',
+      'primary-dark': 'white',
+      'primary': '#6EE0E0',
+      'primary-lilac': '#B9A3D1',
 
       // Grey variations
       'secondary-lightest': '#E8E7E7',
       'secondary-lighter': '#A8A4A4',
       'secondary-light': '#979797',
       'secondary': '#929292',
-      'secondary-dark': '#4A4A4A',
+      'secondary-dark': 'white',
+       
 
       // Danger variations
       'danger-lighter': '#FFD5DB',

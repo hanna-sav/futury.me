@@ -1,7 +1,7 @@
 
 const config = {
   siteMetadata: {
-    title: `Coding Coach`,
+    title: `futury.me`,
     description: `Connecting developers with mentors worldwide`,
     author: `@crysfel`,
     siteUrl: `https://codingcoach.io/`,
@@ -55,8 +55,8 @@ const config = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Coding Coach`,
-        short_name: `Coding Coach`,
+        name: `futury.me`,
+        short_name: `futury.me`,
         start_url: `/`,
         background_color: `#20293a`,
         theme_color: `#20293a`,

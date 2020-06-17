@@ -12,12 +12,12 @@ const MockOpenings = () => (
     <div className="container py-16 md:flex">
       <div className="flex-1 md:pl-16">
         <p className="py-3">
-          In Coding Coach beside our open-source application,  we have an opportunity for all developers to try a mock job opportunity. This way developers can learn the common process of applying for a job, how to prepare C.V. and cover letters, different steps of the process, and estimate themself and their knowledge during the different rules. We are defining a company named CodingCoach CO. as our fake company.
+          In futury.me beside our open-source application,  we have an opportunity for all developers to try a mock job opportunity. This way developers can learn the common process of applying for a job, how to prepare C.V. and cover letters, different steps of the process, and estimate themself and their knowledge during the different rules. We are defining a company named CodingCoach CO. as our fake company.
         </p>
 
         <div className="bg-danger-lighter border-danger-darker border px-4 py-3 rounded relative" role="alert">
           <strong className="font-bold">NOTE:</strong>
-          <span className="block sm:inline"> This is a fake job opportunity created by Coding Coach to train developers getting familiar with the process of interviewing.</span>
+          <span className="block sm:inline"> This is a fake job opportunity created by futury.me to train developers getting familiar with the process of interviewing.</span>
         </div>
 
         <table className="table-auto w-full mt-12 mb-12">

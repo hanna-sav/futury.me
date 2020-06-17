@@ -14,67 +14,70 @@ import TwitterIcon from '../components/Icon/Twitter';
 import aboutImage from '../assets/images/about.svg';
 import missionImage from '../assets/images/mission.svg';
 import contactImage from '../assets/images/contact.svg';
+import aboutmeImage from '../assets/images/about_me.svg';
 
 export default function IndexPage() {
   return (
     <Fragment>
       <SEO
         title="Home"
-        description="Connecting developers with mentors worldwide"
+        description="Find your way"
       />
       <MainNav />
       <Header
-        title={`Coding\nCoach`}
-        subtitle="Connecting developers with mentors worldwide"
+        id="edu-title"
+        title={`Education\nCounselor`}
+        subtitle="Find your way"
       >
         <Button
-          to="https://mentors.codingcoach.io"
-          className="uppercase shadow-lg"
+          to="https://www.instagram.com/_hanna_sav_/"
+          className="uppercase shadow-lg hover:bg-primary-lilac"
         >
-          Find a mentor
+          Download
         </Button>
       </Header>
+      
       <Section
-        title="About"
-        description="Coding Coach is a free, open-source platform which aims to connect software developers and mentors all over the world. It is built by a group of talented and passionate developers, designers, engineers, and humans who want to make the engineering world a better place to collaborate. This project was born out of a desire to provide a platform to connect mentors and mentees throughout the world at no cost. Coding Coach is created by the people, for the people."
-        image={aboutImage}
+     title={'One step closer\nto your future\nprofession'}
+     id="about"
+     image={aboutImage}
+       
         alignRight
       />
       <Section
-        title="Mission"
-        description="We believe that mentorship should be accessible to all people regardless of location or financial standing. In pursuit of this goal we will provide a free and open source platform to facilitate mentorship connections. Our mission is to foster a greater sense of collaboration and inclusiveness in the technical industry by providing a platform to aid the mentorship process."
-        image={missionImage}
+            title="About"
+            id="about"
+            description="A mobile app that will help future students choose a profession.The student enters information about interests and assessments. The application offers you a list of international or local universities, as well as a list of exams that you must pass to be admitted to the university, also reviews, and suggestions from graduates."
+            image={aboutmeImage}
+            alignLeft
       />
+     
       <Section title="Contact" image={contactImage} alignRight>
-        <p className="mb-4 text-lg text-secondary-dark leading-normal font-body md:text-right">
-          We want to hear your thoughts! Feel free to join our
-          <a
-            className="inline-block mx-2 text-black border-b border-black no-underline hover:bg-primary-light hover:text-white hover:border-primary-light"
-            href="https://join.slack.com/t/coding-coach/shared_invite/enQtODYwODU0NDE2OTkzLTRmMTY3NTZmOGI2MjYyZTM2ZDBlZTNjNmMwNGRhY2I3MzZkMjA3ZjlhZjliYmQzMGQyYTkxNTViZTc3MzJmOTU"
-          >
-            Slack Organization
-          </a>
+        <p className="mb-4 text-lg text-secondary leading-normal font-body md:text-right">
+        Feel free to ask anything, share your opinion
+    
           or send us an email at{' '}
           <a
             className="text-primary-light no-underline hover:underline"
-            href="mailto:admin@codingcoach.io"
+            href="mailto:infofutury.me@gmail.com"
           >
-            admin@codingcoach.io
+            infofutury.me@gmail.com
           </a>
+          it's so important for us.
         </p>
         <p className="flex flex-row text-primary-light">
           <SocialButton
-            to="https://twitter.com/codingcoach_io"
+            to="https://linkedin.com"
             Icon={TwitterIcon}
             className="mr-6"
           />
           <SocialButton
-            to="https://www.facebook.com/codingcoachio/"
+            to="https://www.facebook.com/futury.me"
             Icon={FacebookIcon}
             className="mr-6"
           />
           <SocialButton
-            to="https://github.com/Coding-Coach"
+            to="https://instagram.com/futury.me"
             Icon={GithubIcon}
             className="mr-6 md:mr-0"
           />

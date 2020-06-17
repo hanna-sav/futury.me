@@ -1,5 +1,5 @@
 ---
-title: Diary Of A Coding Coach (Pt. 2)
+title: Diary Of A futury.me (Pt. 2)
 date: 2018-09-19
 tags: ['open source', 'coding', 'community']
 author: emma-wedekind
@@ -9,7 +9,7 @@ A few weeks back, with the help of the developer community on Twitter, I started
 
 I made the decision to actively blog about this experience to hopefully help people looking to start a project of their own.
 
-If you haven’t read part one, [check it out](/blog/diary-of-a-coding-coach-pt-1/). Here’s what happened with Coding Coach the last couple of weeks.
+If you haven’t read part one, [check it out](/blog/diary-of-a-coding-coach-pt-1/). Here’s what happened with futury.me the last couple of weeks.
 
 ## Documentation
 One of the things you’ll need for a successful project is thorough documentation. The last few weeks we broke down our project requirements into MVP features.
@@ -72,7 +72,7 @@ Although we had most of our social media accounts defined, I wanted to add in a 
 ![Medium](./medium.png)
 
 ### Product Hunt
-Additionally, I created a Product Hunt page for Coding Coach.
+Additionally, I created a Product Hunt page for futury.me.
 
 ![Product Hunt](./producthunt.png)
 
@@ -84,7 +84,7 @@ One of the biggest decisions I made was to assign front-end and back-end develop
 ## Tools
 
 ### Sketch
-To create the high-fidelity designs as well as the beginning of a style guide, I’m using Sketch. It’s my hope that we can simultaneously develop a style guide in tandem with the Coding Coach product.
+To create the high-fidelity designs as well as the beginning of a style guide, I’m using Sketch. It’s my hope that we can simultaneously develop a style guide in tandem with the futury.me product.
 
 ![Sketch](./sketch.png)
 
@@ -94,7 +94,7 @@ Not all of our developers have access to Sketch, so all of our design assets are
 ![Figma](./figma.png)
 
 ## Recognition
-I’d like to take just a minute to recognize some of the awesome people who have been helping make Coding Coach a reality. There are many more people I wish I could thank, but these are some of the all-star players.
+I’d like to take just a minute to recognize some of the awesome people who have been helping make futury.me a reality. There are many more people I wish I could thank, but these are some of the all-star players.
 
 * Taylor LaRiviere: Copy Editing
 * Crysfel Villa: Front-end/Backend Team Lead
@@ -105,4 +105,4 @@ I’d like to take just a minute to recognize some of the awesome people who hav
 * Adam Recvlohe: Front-end Development
 * Martin Gonzalez: MVP 0 Documentation
 
-Make sure to subscribe to Coding Coach to stay updated on the development process!
+Make sure to subscribe to futury.me to stay updated on the development process!

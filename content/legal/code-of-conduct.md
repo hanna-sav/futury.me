@@ -3,7 +3,7 @@ title: Code of Conduct
 date: 2019-01-07
 path: /legal/conduct
 ---
-At Coding Coach, we value all our mentors, mentees, and contributors. Our goal is to make this a safe space where new and experienced developers can connect and learn from one another. Therefore, we do not tolerate any form of harassment or prejudice. This Code of Conduct applies to all Coding Coach spaces including but not limited to slack, email correspondence, and social media.
+At futury.me, we value all our mentors, mentees, and contributors. Our goal is to make this a safe space where new and experienced developers can connect and learn from one another. Therefore, we do not tolerate any form of harassment or prejudice. This Code of Conduct applies to all futury.me spaces including but not limited to slack, email correspondence, and social media.
 
 Harassment includes but is not limited to:
   * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, physical appearance, body size, age, race, or religion.
@@ -20,9 +20,9 @@ Harassment includes but is not limited to:
   * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
   * Publication of non-harassing private communication.
 
-We value integrity here at Coding Coach. As such, mentees may not ask for solutions to technical interview take home assessments. We're happy to mentor you in the process of solving difficult questions, but will not provide you with solutions to your assessments as they are meant to reflect your personal skill set.
+We value integrity here at futury.me. As such, mentees may not ask for solutions to technical interview take home assessments. We're happy to mentor you in the process of solving difficult questions, but will not provide you with solutions to your assessments as they are meant to reflect your personal skill set.
 
-Members who violate this code of conduct will be approached by someone of the Coding Coach leadership team and asked to stop immediately. Members may also be banned from the Coding Coach slack, blocked on social media, and removed from the website. 
+Members who violate this code of conduct will be approached by someone of the futury.me leadership team and asked to stop immediately. Members may also be banned from the futury.me slack, blocked on social media, and removed from the website. 
 
 If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. To report an incident of harassment, anonymously or otherwise, please fill out [our report form](https://forms.gle/bcSWqNNcsdo3zDD17).
 

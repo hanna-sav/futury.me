@@ -14,7 +14,7 @@ export default () => (
 
         <div className="bg-danger-lighter border-danger-darker border px-4 py-3 rounded relative mb-12" role="alert">
           <strong className="font-bold">NOTE:</strong>
-          <span className="block sm:inline"> This is a fake job opportunity created by Coding Coach to train developers getting familiar with the process of interviewing.</span>
+          <span className="block sm:inline"> This is a fake job opportunity created by futury.me to train developers getting familiar with the process of interviewing.</span>
         </div>
 
         <h1 className="font-display text-2xl md:text-3xl lg:text-4xl mb-12">

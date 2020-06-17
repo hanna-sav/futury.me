@@ -4,7 +4,7 @@ import classNames from 'classnames';
 import { Link } from 'gatsby';
 
 const Button = React.memo(({ children, className, to, onClick }) => {
-  const css = classNames('inline-block bg-primary text-white px-6 py-3 rounded hover:bg-primary-dark', className);
+  const css = classNames('inline-block bg-primary text-white px-6 py-3 rounded hover:bg-primary-lilac', className);
 
   if (to) {
     if (to.startsWith('http')) {

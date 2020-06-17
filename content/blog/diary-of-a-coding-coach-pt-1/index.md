@@ -1,5 +1,5 @@
 ---
-title: Diary Of A Coding Coach (Pt. 1)
+title: Diary Of A futury.me (Pt. 1)
 date: 2018-09-18
 tags: ['open source', 'coding', 'community']
 author: emma-wedekind
@@ -17,14 +17,14 @@ Mentorship should be available to everyone, regardless of circumstance, but many
 
 I feel as though it is my responsibility to society to help facilitate the creation of an application which will allow any developer to find a mentor.
 
-Thus, I created Coding Coach.
+Thus, I created futury.me.
 
 ![Mentoring](./mentoring.png)
 
 ## Goal
-The ultimate goal of Coding Coach is to build a mentorship application which allows developers to connect with mentors worldwide and grow their skillset.
+The ultimate goal of futury.me is to build a mentorship application which allows developers to connect with mentors worldwide and grow their skillset.
 
-I wanted Coding Coach to be open-source. This is an issue the community is extremely passionate to help remediate, so I established this project to be a community effort.
+I wanted futury.me to be open-source. This is an issue the community is extremely passionate to help remediate, so I established this project to be a community effort.
 
 ## Phase 1: Organization
 ### Gauge Interest
@@ -37,7 +37,7 @@ I have received over 300 responses.
 ![Survey Results](./results.png)
 
 ### Grab A Domain Name
-I immediately knew I had to grab a domain name. Of course all the domains surrounding mentorship have been taken, so I selected Coding Coach. I thought the alliteration had nice ring. Ultimately I would like to find a snazzier name, but this isn’t my top priority at the moment.
+I immediately knew I had to grab a domain name. Of course all the domains surrounding mentorship have been taken, so I selected futury.me. I thought the alliteration had nice ring. Ultimately I would like to find a snazzier name, but this isn’t my top priority at the moment.
 
 ### Set Up Slack
 Next, I set up a Slack organization under the same namespace (Coding-Coach). I created several channels to get the ball rolling:
@@ -68,10 +68,10 @@ Next, I threw together a quick landing page design and built it using React’s 
 ![Landing page](./dairy.png)
 
 ### Define Mission Statement
-I knew I needed a mission statement for Coding Coach, so I set one up in Google Drive. I’m hoping to have this released by this Friday (September 14th, 2018)
+I knew I needed a mission statement for futury.me, so I set one up in Google Drive. I’m hoping to have this released by this Friday (September 14th, 2018)
 
 ### Define MVP 0 & Information Architecture
-I also knew we had to define MVP 0 and the architecture for the application. I created two Google documents and the Coding Coach team is collaborating together to define a minimum viable product.
+I also knew we had to define MVP 0 and the architecture for the application. I created two Google documents and the futury.me team is collaborating together to define a minimum viable product.
 
 These documents are a work in progress, but it’s so cool to see how the community is so invested in building an amazing product.
 
@@ -103,7 +103,7 @@ We set up Trello boards to keep track of ideas we had.
 At the moment it’s just a way to keep track of all the great ideas floating around, but after MVP 0 is defined, we’ll set up stricter pipelines.
 
 ## Conclusion
-I’d be lying if I said I wasn’t scared; I’m scared shitless. Mostly because I’m not used to being at the center of a project. But the Coding Coach Slack organization is full of incredible developers who I am so fortunate to work with.
+I’d be lying if I said I wasn’t scared; I’m scared shitless. Mostly because I’m not used to being at the center of a project. But the futury.me Slack organization is full of incredible developers who I am so fortunate to work with.
 
 I truly hope we can build something worthwhile to the development community, and perhaps even scale this to something larger.
 

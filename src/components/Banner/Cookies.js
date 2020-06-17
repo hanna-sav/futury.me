@@ -43,7 +43,7 @@ export default class Cookies extends PureComponent{
       <Banner closable onClose={this.toggleAccepted}>
         <p className="text-xs text-secondary-dark">
           To help personalize content, tailor and measure ads, and provide a safer experience, we use cookies.
-          By clicking or navigating the site, you agree to allow our collection of information on and off Coding Coach through cookies.
+          By clicking or navigating the site, you agree to allow our collection of information on and off futury.me through cookies.
           Learn more, including about available controls <Link to="/legal/cookies" className="text-primary-dark hover:underline hover:text-primary-light">Cookies Policy</Link>
         </p>
       </Banner>

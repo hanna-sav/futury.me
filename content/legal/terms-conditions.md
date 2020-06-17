@@ -4,7 +4,7 @@ date: 2019-01-07
 path: /legal/terms
 ---
 
-These Terms and Conditions ("Terms", "Terms and Conditions") govern your relationship with www.codingcoach.io website (the "Service") operated by Coding Coach ("us", "we", or "our").
+These Terms and Conditions ("Terms", "Terms and Conditions") govern your relationship with www.codingcoach.io website (the "Service") operated by futury.me ("us", "we", or "our").
 
 Please read these Terms and Conditions carefully before using the Service.
 
@@ -25,9 +25,9 @@ You may not use as a username the name of another person or entity or that is no
 
 ## Links To Other Websites
 
-Our Service may contain links to third-party web sites or services that are not owned or controlled by Coding Coach.
+Our Service may contain links to third-party web sites or services that are not owned or controlled by futury.me.
 
-Coding Coach has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Coding Coach shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+futury.me has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that futury.me shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
 We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.
 

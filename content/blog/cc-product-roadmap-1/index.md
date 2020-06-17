@@ -30,7 +30,7 @@ The Mentors link will send users to the current app we have, on there people wil
 ### Release 2: Mentor availability and reports
 On top of the user profile, we are going to build the mentor profile page, the design is the same but there will be more fields, as mentors can define communication channels and availability.
 
-We are also planning to build an easy way to report any issues in the mentorships by creating a new `Reports` module. Mentors and mentees will be able to report missconducts and reach out to Coding Coach staff.
+We are also planning to build an easy way to report any issues in the mentorships by creating a new `Reports` module. Mentors and mentees will be able to report missconducts and reach out to futury.me staff.
 
 ![Mentor profile](./release-2.png)
 
@@ -52,7 +52,7 @@ We have more ideas and plans to help mentors and mentees to succeed in the relat
 ### Release 4: Notes and finishing a mentorship
 As a mentor myself I like to keep track of my mentees by keeping some notes, this is very useful especially at the beginning. We will work on introducing a feature to keep notes directly on the mentorship, this way it will be easier for a mentor to keep everything in a single place.
 
-We also know that it's ok to terminate a mentorship, for whatever reason this is. We want to allow mentors and mentees to terminate the relationship at any time, that's why we are going to introduce an easy way to terminate the mentorship and leaving feedback to the mentor and to the Coding Coach staff.
+We also know that it's ok to terminate a mentorship, for whatever reason this is. We want to allow mentors and mentees to terminate the relationship at any time, that's why we are going to introduce an easy way to terminate the mentorship and leaving feedback to the mentor and to the futury.me staff.
 
 ![Terminate mentorhip](./release-4.jpg)
 

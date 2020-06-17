@@ -2,7 +2,7 @@ import React, { Fragment } from 'react';
 import classNames from 'classnames';
 import { Link } from 'gatsby';
 
-import logoImage from '../../assets/images/logo.svg';
+import logoImage from '../../assets/images/logo.png';
 
 export default React.memo(function MainNav({ showLogo, title }) {
   const css = classNames('bg-primary-light py-4', {
@@ -15,15 +15,15 @@ export default React.memo(function MainNav({ showLogo, title }) {
         <div className="container">
           {showLogo &&
             <Link to="/" className="inline-block align-top">
-              <img src={logoImage} className="w-10 mr-4 md:mr-8" alt="Coding Coach Logo" />
+              <img src={logoImage} className="w-10 mr-4 md:mr-8" alt="futury.me Logo" />
             </Link>
           }
           <ul className="inline-block">
-            <MenuLink to="https://mentors.codingcoach.io">Mentors</MenuLink>
-            <MenuLink to="https://shop.spreadshirt.com/coding-coach">Store</MenuLink>
-            <MenuLink to="/mock-openings">Mock Openings</MenuLink>
-            <MenuLink to="/blog">Blog</MenuLink>
-            <MenuLink to="/about">About</MenuLink>
+            <MenuLink to="/home">Home</MenuLink>
+            <MenuLink to="https://www.instagram.com/_hanna_sav_/">Download</MenuLink>
+            <MenuLink to="/contact">Contact</MenuLink>
+  
+            <MenuLink to="#about">About</MenuLink>
           </ul>
         </div>
       </nav>

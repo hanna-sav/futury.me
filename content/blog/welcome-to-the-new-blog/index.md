@@ -7,13 +7,13 @@ image: main.jpg
 ---
 Over the last months we've been getting requests from different members to create a blog where everyone can participate and collaborate. 
 
-Today I'm pleased to annouced our new blog! Where anyone can create a post through a GitHub PR! The idea is to have different topics such as mentoring, career growth, tutorials about technology, case studies and anything related to what Coding Coach stands for.
+Today I'm pleased to annouced our new blog! Where anyone can create a post through a GitHub PR! The idea is to have different topics such as mentoring, career growth, tutorials about technology, case studies and anything related to what futury.me stands for.
 
 ## How to publish
 We are using Gatsby to power this site, therefore in order to publish a new post, we need to build and deploy a new version that includes the new content. This process is automated by Netlify when merging code into the `master` branch.
 
 ### Author Profile
-The first thing you need to do is to create your author profile, we will display your avatar, description and a link to anywhere you want, you might use this link to promote your Coding Coach's mentor profile or personal site. You only need to do this once, all your posts will use the same information defined in this file.
+The first thing you need to do is to create your author profile, we will display your avatar, description and a link to anywhere you want, you might use this link to promote your futury.me's mentor profile or personal site. You only need to do this once, all your posts will use the same information defined in this file.
 
 To create a profile you need to create a new markdown file under [/content/authors](https://github.com/Coding-Coach/coding-coach/tree/master/content/authors), for example `/content/authors/john-doe.md`. In here you need to fill the following fields:
 
@@ -35,7 +35,7 @@ Inside this folder you need need to add all the images you might want to show in
 
 ```markdown
 ---
-title: Coding for fun for Coding Coach
+title: Coding for fun for futury.me
 date: 2019-04-29
 tags: 
   - developer
@@ -57,7 +57,7 @@ This is the main content, you can *start writing* here :)
 After you are done writing your article or tutorial, you will need to create a PR.
 
 ## Submit content for review
-In order to publish a new post, the content needs to be reviewed by the community and published by one of Coding Coach admins. In the reviewing process we may ask you to rephrase something, clarify your point or even help you with some grammar. We will leave all the feedback in the pull request, GitHub is great for this process.
+In order to publish a new post, the content needs to be reviewed by the community and published by one of futury.me admins. In the reviewing process we may ask you to rephrase something, clarify your point or even help you with some grammar. We will leave all the feedback in the pull request, GitHub is great for this process.
 
 There are two ways to create a PR, cloning the project or using GitHub to write your content.
 

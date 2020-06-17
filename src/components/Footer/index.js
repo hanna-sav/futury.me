@@ -9,11 +9,8 @@ export default function Footer() {
     <Fragment>
       <footer className="container">
         <div className="pt-4 pb-8 border-t border-secondary-lightest clearfix">
-          <ul className="float-right">
-            <LinkItem to="/legal/terms-conditions">Terms & Conditions</LinkItem>
-            <LinkItem to="/legal/cookies">Cookies</LinkItem>
-            <LinkItem to="/legal/privacy">Privacy Policy</LinkItem>
-            <LinkItem to="/legal/code-of-conduct">Code Of Conduct</LinkItem>
+          <ul>
+            <p align="center">©2020 All rights reserved</p>
           </ul>
         </div>
       </footer>
