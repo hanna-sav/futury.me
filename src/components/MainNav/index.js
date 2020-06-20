@@ -20,7 +20,7 @@ export default React.memo(function MainNav({ showLogo, title }) {
           }
           <ul className="inline-block">
             <MenuLink to="/home">Home</MenuLink>
-            <MenuLink to="https://www.instagram.com/_hanna_sav_/">Download</MenuLink>
+            <MenuLink to="https://www.instagram.com/futury.me/">Download</MenuLink>
             <MenuLink to="/contact">Contact</MenuLink>
   
             <MenuLink to="#about">About</MenuLink>

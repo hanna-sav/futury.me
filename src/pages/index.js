@@ -20,7 +20,7 @@ export default function IndexPage() {
   return (
     <Fragment>
       <SEO
-        title="Home"
+        title="Futury.me"
         description="Find your way"
       />
       <MainNav />
@@ -38,7 +38,7 @@ export default function IndexPage() {
       </Header>
       
       <Section
-     title={'One step closer\nto your future\nprofession'}
+     title={'One step closer to your future profession'}
      id="about"
      image={aboutImage}
        
